@@ -221,7 +221,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 1. **Fork the repository** and create your feature branch from `main`
 2. **Make your changes** following our coding standards
 3. **Add tests** for any new functionality
-4. **Ensure all tests pass** by running `npm test`
+4. **Ensure it works**
 5. **Submit a pull request** with a clear description of your changes
 
 For more detailed information, please read our [Contributing Guidelines](https://github.com/QKing-Official/lightlimit/blob/main/CONTRIBUTING.md).
