@@ -197,16 +197,49 @@ If colors aren't displaying correctly:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributing
-![GitHub first-time contributors](https://img.shields.io/badge/first--time%20contributors-welcome-brightgreen)
-![GitHub contributors](https://img.shields.io/github/contributors/QKing-Official/lightlimit)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/QKing-Official/lightlimit)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/QKing-Official/lightlimit)
-![GitHub commits per contributor](https://img.shields.io/github/contributors-anon/QKing-Official/lightlimit)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/QKing-Official/lightlimit)
-![Contribute](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-<!--![Help Wanted](https://img.shields.io/badge/help%20wanted-yes-important)-->
 
-### Contributors
-![GitHub contributors list](https://contrib.rocks/image?repo=QKing-Official/lightlimit)
+<div align="center">
+  <a href="https://github.com/QKing-Official/lightlimit/blob/main/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg" alt="Contributions Welcome">
+  </a>
+  <a href="https://github.com/QKing-Official/lightlimit/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22">
+    <img src="https://img.shields.io/badge/first--time%20contributors-welcome-brightgreen" alt="First-time Contributors Welcome">
+  </a>
+  <a href="https://github.com/QKing-Official/lightlimit/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/QKing-Official/lightlimit" alt="GitHub Contributors">
+  </a>
+  <a href="https://github.com/QKing-Official/lightlimit/pulls">
+    <img src="https://img.shields.io/github/issues-pr/QKing-Official/lightlimit" alt="Open Pull Requests">
+  </a>
+  <a href="https://github.com/QKing-Official/lightlimit/pulls?q=is%3Apr+is%3Aclosed">
+    <img src="https://img.shields.io/github/issues-pr-closed/QKing-Official/lightlimit" alt="Closed Pull Requests">
+  </a>
+</div>
 
-Contributions are welcome! Please feel free to submit a Pull Request to the [GitHub repository](https://github.com/QKing-Official/lightlimit).
+### How to Contribute
+
+1. **Fork the repository** and create your feature branch from `main`
+2. **Make your changes** following our coding standards
+3. **Add tests** for any new functionality
+4. **Ensure all tests pass** by running `npm test`
+5. **Submit a pull request** with a clear description of your changes
+
+For more detailed information, please read our [Contributing Guidelines](https://github.com/QKing-Official/lightlimit/blob/main/CONTRIBUTING.md).
+
+<!-- Note: We've removed the duplicate pull requests badge and the anonymous contributors badge for clarity -->
+
+### Our Amazing Contributors
+
+<div align="center">
+  <a href="https://github.com/QKing-Official/lightlimit/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=QKing-Official/lightlimit" alt="GitHub Contributors Image">
+  </a>
+</div>
+
+<div align="center">
+  <i>Want to see your face here? We'd love your help!</i>
+  <br>
+  <a href="https://github.com/QKing-Official/lightlimit/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22">
+    <img src="https://img.shields.io/badge/help%20wanted-yes-important" alt="Help Wanted">
+  </a>
+</div>
