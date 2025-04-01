@@ -206,7 +206,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ![Contribute](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 <!--![Help Wanted](https://img.shields.io/badge/help%20wanted-yes-important)-->
 
-# Contributors
+### Contributors
 ![GitHub contributors list](https://contrib.rocks/image?repo=QKing-Official/lightlimit)
 
 Contributions are welcome! Please feel free to submit a Pull Request to the [GitHub repository](https://github.com/QKing-Official/lightlimit).
