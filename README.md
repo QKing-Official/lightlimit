@@ -4,7 +4,6 @@ LightLimit is an advanced CPU management tool for Linux systems that allows you 
 
 ![GitHub](https://img.shields.io/github/license/QKing-Official/lightlimit)
 ![GitHub stars](https://img.shields.io/github/stars/QKing-Official/lightlimit?style=social)
-[![Star History](https://api.star-history.com/svg?repos=QKing-Official/lightlimit&type=Date)](https://star-history.com/#QKing-Official/lightlimit&Date)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/QKing-Official)
 ![GitHub forks](https://img.shields.io/github/forks/QKing-Official/lightlimit?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/QKing-Official/lightlimit)
@@ -14,6 +13,12 @@ LightLimit is an advanced CPU management tool for Linux systems that allows you 
 ![GitHub top language](https://img.shields.io/github/languages/top/QKing-Official/lightlimit)
 ![GitHub language count](https://img.shields.io/github/languages/count/QKing-Official/lightlimit)
 ![GitHub issues](https://img.shields.io/github/issues/QKing-Official/lightlimit)
+![Visitor Count](https://komarev.com/ghpvc/?username=QKing-Official&color=blue)
+
+
+
+[![Star History](https://api.star-history.com/svg?repos=QKing-Official/lightlimit&type=Date)](https://star-history.com/#QKing-Official/lightlimit&Date)
+
 
 ## Features
 
@@ -198,5 +203,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/QKing-Official/lightlimit)
 ![Contribute](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 ![Help Wanted](https://img.shields.io/badge/help%20wanted-yes-important)
+
+![GitHub contributors list](https://contrib.rocks/image?repo=QKing-Official/lightlimit)
 
 Contributions are welcome! Please feel free to submit a Pull Request to the [GitHub repository](https://github.com/QKing-Official/lightlimit).
