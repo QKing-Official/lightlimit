@@ -6,7 +6,6 @@ LightLimit is an advanced CPU management tool for Linux systems that allows you 
 ![GitHub stars](https://img.shields.io/github/stars/QKing-Official/lightlimit?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/QKing-Official/lightlimit?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/QKing-Official/lightlimit)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/QKing-Official/lightlimit)
 ![GitHub last commit](https://img.shields.io/github/last-commit/QKing-Official/lightlimit)
 ![GitHub code size](https://img.shields.io/github/languages/code-size/QKing-Official/lightlimit)
 ![GitHub repo size](https://img.shields.io/github/repo-size/QKing-Official/lightlimit)
