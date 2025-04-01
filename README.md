@@ -15,9 +15,12 @@ LightLimit is an advanced CPU management tool for Linux systems that allows you 
 ![GitHub issues](https://img.shields.io/github/issues/QKing-Official/lightlimit)
 ![Visitor Count](https://komarev.com/ghpvc/?username=QKing-Official&color=blue)
 
-
-
-[![Star History](https://api.star-history.com/svg?repos=QKing-Official/lightlimit&type=Date)](https://star-history.com/#QKing-Official/lightlimit&Date)
+<div align="center">
+  <p><b>⭐ Star History</b></p>
+  <a href="https://star-history.com/#QKing-Official/lightlimit&Date">
+    <img src="https://api.star-history.com/svg?repos=QKing-Official/lightlimit&type=Date" alt="Star History Chart" width="600" style="border: 1px solid #ddd; border-radius: 6px; padding: 10px; background-color: #f8f8f8;">
+  </a>
+</div>
 
 
 ## Features
