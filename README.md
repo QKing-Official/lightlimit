@@ -3,6 +3,18 @@
 LightLimit is an advanced CPU management tool for Linux systems that allows you to control CPU usage limits, set processor affinities, and monitor system resources with an interactive interface.
 
 ![GitHub](https://img.shields.io/github/license/QKing-Official/lightlimit)
+![GitHub stars](https://img.shields.io/github/stars/QKing-Official/lightlimit?style=social)
+![GitHub forks](https://img.shields.io/github/forks/QKing-Official/lightlimit?style=social)
+![GitHub issues](https://img.shields.io/github/issues/QKing-Official/lightlimit)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/QKing-Official/lightlimit)
+![GitHub last commit](https://img.shields.io/github/last-commit/QKing-Official/lightlimit)
+![GitHub code size](https://img.shields.io/github/languages/code-size/QKing-Official/lightlimit)
+![GitHub repo size](https://img.shields.io/github/repo-size/QKing-Official/lightlimit)
+![GitHub top language](https://img.shields.io/github/languages/top/QKing-Official/lightlimit)
+![GitHub language count](https://img.shields.io/github/languages/count/QKing-Official/lightlimit)
+![GitHub contributors](https://img.shields.io/github/contributors/QKing-Official/lightlimit)
+![GitHub issues](https://img.shields.io/github/issues/QKing-Official/lightlimit)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/QKing-Official/lightlimit)
 
 ## Features
 
